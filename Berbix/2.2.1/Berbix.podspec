@@ -33,5 +33,5 @@ to get started.
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.swift_version = "4.2"
 
-  s.dependency 'Sentry', '~> 7.7.4'
+  s.dependency 'Sentry', '~> 7.5.1'
 end
